@@ -1,0 +1,9 @@
+
+# Basic
+ipython==4.2.0
+
+# ML
+scikit-learn==0.17.1
+
+# NLP
+jieba==0.38
